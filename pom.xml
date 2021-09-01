@@ -8,7 +8,7 @@
     <name>Visualizador de RFCs</name>
     <description>Visualizador de RFCs</description>
     <properties>
-        <neo4j.version>2.0.0-M06</neo4j.version>
+        <neo4j.version>3.5.0</neo4j.version>
     </properties>
 
     <repositories>
